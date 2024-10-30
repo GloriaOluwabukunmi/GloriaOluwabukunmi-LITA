@@ -34,11 +34,17 @@ ATTRITION RATE= SUM OF ATTRITION COUNT / SUM OF EMPLOYEE COUNT which gave me 16%
 - Measures
 - Visual charts
 - Filters
+- Slicers
 
-  ### VISUALIZATION
+  ### DATA VISUALIZATION
  ![POWERBI](https://github.com/user-attachments/assets/38361ed9-ce8f-47ab-badb-149d0c86f70c)
 
  ![WhatsApp Image 2024-10-29 at 22 34 42_632bd3a6](https://github.com/user-attachments/assets/52d77704-10f5-4047-a39d-f6ed51db600c)
 
- ![WhatsApp Image 2024-10-29 at 22 34 42_632bd3a6](https://github.com/user-attachments/assets/f6fada60-3f8e-47b5-9f99-b32a479c69b6)
+ ### INFERENCE
+Age group by attrition count shows that 17% of male from the R&D department left the company, their average age group was 37 and based on the job satisfactory analysis just 1 person was dissatisfie with the job and othrrs could have left because of their marital issue because 16 wqs divorced and 22 were married.
+
+Based on the job role satisfactory analysis Laboratory Technician has the highest number of people that were Very Dissatisfied with the Job either because of the pay or their marital status.
+
+Life sciences has the highest Attrition by Educational field, showing 15% of the Attrition rate out of the 16% of the overall attrition rate
 
