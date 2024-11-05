@@ -17,7 +17,7 @@
 [INFERENCE](#inference)
 
 ### PROJECT OVERVIEW
-The Dataset used for this project comprises of the information of the present and past employees in the company and it was computed by the HR Department. It analyses  the attrition of all the employees in each department inorder to uncover the attrition rate and other causes of attrition among the employees in the company 
+This employee attrition data analysis project provides a solid foundation for the company to understand the scope of its retention challenges and identify potential areas for improvement. The insights gleaned from this analysis can guide the development of more effective human resource management strategies to retain top talent and minimize the costs associated with employee turnover.
 ### DATA SOURCE
 Data was provided by the HR Department
 ### SOME OF THE DATA COLLECTED
@@ -59,8 +59,31 @@ ATTRITION RATE= SUM OF ATTRITION COUNT / SUM OF EMPLOYEE COUNT which gave me 16%
  ![WhatsApp Image 2024-10-29 at 22 34 42_632bd3a6](https://github.com/user-attachments/assets/52d77704-10f5-4047-a39d-f6ed51db600c)
 
  ### INFERENCE
-- Age group by attrition count shows that 17% of male from the R&D department left the company, their average age group was 37 and based on the job satisfactory analysis just 1 person was dissatisfie with the job and othrrs could have left because of their marital issue because 16 wqs divorced and 22 were married.
+- Attrition Rate Analysis:
+The primary goal of this project is to analyze the attrition rate among employees across different departments in the company.
+The analysis calculates the overall attrition rate, which stands at 16% according to the information provided.
+Determining the attrition rate is a crucial first step in understanding the scope of the employee churn problem the company is facing.
 
-- Based on the job role satisfactory analysis Laboratory Technician has the highest number of people that were Very Dissatisfied with the Job either because of the pay or their marital status.
 
-- Life sciences has the highest Attrition by Educational field, showing 15% of the Attrition rate out of the 16% of the overall attrition rate
+- Demographic Factors:
+The dataset includes employee information such as age, marital status, education field, gender, and job role.
+Analyzing these demographic factors can help identify patterns and potential reasons contributing to employee attrition.
+For example, the analysis of employees by age group can reveal if certain age brackets are more prone to leaving the company.
+
+
+- Departmental Insights:
+Examining the attrition by department provides visibility into which areas of the business are experiencing the highest turnover.
+This information can help the company target its retention efforts and resources towards the departments with the most significant attrition challenges.
+
+
+- Data Preparation and Visualization:
+The project highlights the importance of proper data import, transformation, and cleaning in Powerbi before conducting the analysis.
+The use of conditional columns, measures, and various visual charts (e.g., doughnut charts) demonstrates the analytical capabilities of Powerbi in uncovering insights from the employee data.
+
+
+- Proposed Solutions:
+While the project overview does not explicitly mention any proposed solutions, the analysis of attrition rates and contributing factors can inform the development of targeted strategies to reduce employee turnover.
+Potential solutions could include reviewing compensation and benefits, improving career development opportunities, enhancing work-life balance, or addressing department-specific pain points.
+
+
+
